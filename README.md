@@ -1,9 +1,15 @@
+If you like the plugin, consider ...
+
+[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+
+
+
 # SublimeHelper
 [fman](https://fman.io) plugin to work with Sublime Text Editor
 
 # Installation
 1 Install using fman Install Plugin command
-2 Modify the file __init__.py and change the **SUBLIMETEXTPATH** to match your system
+
 
 # Usage
 * Invoke command window with Ctrl+Shift+P/Cmd+Shift+P and type sublime
@@ -18,5 +24,8 @@
 
 
 # TODO
-* Get Editor Path from Settings
 * TODO: Check if quoting is working for other platforms
+
+
+[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
+[buymeacoffee]: https://www.buymeacoffee.com/4DGUZ2NoO
